@@ -15,4 +15,4 @@ A creative platformer game built in Java, inspired by *This is the Only Level*. 
 - Multiple game phases with logic variations
 - Custom collision detection and movement physics
 - Lightweight, no external libraries
-- 
+  
