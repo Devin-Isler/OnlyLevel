@@ -15,9 +15,4 @@ A creative platformer game built in Java, inspired by *This is the Only Level*. 
 - Multiple game phases with logic variations
 - Custom collision detection and movement physics
 - Lightweight, no external libraries
-
-## 🛠️ Installation
-
-1. Make sure **Java 8 or above** is installed
-2. Open terminal inside the project folder
-3. Compile all `.java` files:
+- 
